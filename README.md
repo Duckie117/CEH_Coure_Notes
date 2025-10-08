@@ -19,24 +19,44 @@ CEH v9 focuses on attack vectors, vulnerabilities and countermeasures. Each modu
 **🧭 Module List (19 Modules)**
 
 **Month 1**
-Module 01. Introduction to Ethical Hacking
-Module 02. Footprinting & Reconnaissance
-Module 03. Scanning Networks
-Module 04. Enumeration
-Module 05. System Hacking
-Module 06. Trojan and Backdoor
-Module 07. Virus and Worm
-Module 08. Sniffing
-Module 09. Social Engineering
-Module 10. Denial of Service (DoS/DDoS)
+  
+  Module 01. Introduction to Ethical Hacking
+  
+  Module 02. Footprinting & Reconnaissance
+  
+  Module 03. Scanning Networks
+  
+  Module 04. Enumeration
+  
+  Module 05. System Hacking
+  
+  Module 06. Trojan and Backdoor
+  
+  Module 07. Virus and Worm
+  
+  Module 08. Sniffing
+  
+  Module 09. Social Engineering
+  
+  Module 10. Denial of Service (DoS/DDoS)
 
 **Month 2**
-Module 11. Session Hijacking
-Module 12. Hacking Web Servers 
-Module 13. Hacking Web Applications
-Module 14. SQL Injection
-Module 15. Hacking Wireless Networks
-Module 16. Evading IDS, Firewalls & Honeypots
-Module 17. Hacking Mobile Platforms
-Module 18. Cryptography 
-Module 19. Penetration Testing
+  
+  Module 11. Session Hijacking
+  
+  Module 12. Hacking Web Servers 
+  
+  Module 13. Hacking Web Applications
+
+  Module 14. SQL Injection
+
+  Module 15. Hacking Wireless Networks
+
+  Module 16. Evading IDS, Firewalls & Honeypots
+
+  Module 17. Hacking Mobile Platforms
+
+  Module 18. Cryptography 
+
+  Module 19. Penetration Testing
+
